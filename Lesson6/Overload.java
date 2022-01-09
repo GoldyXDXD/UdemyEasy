@@ -1,8 +1,5 @@
 public class Overload {
-    public static void main(String[] args) {
-        //code
-    }
-
+    
     public int sum() {
         return 0;
     }
